@@ -3,7 +3,7 @@
 - 👀 I’m interested in cloud computing, servers and homelabs!
 - 🌱 I’m currently learning how to use Emacs and Org Mode!
 - 💞️ I’m looking to collaborate on anything!
-- 📫 You can reach me [@YamiFrankcc](https://twitter.com/YamiFrankcc) on Twitter or by e-mail at code@trigomijes.com
+- 📫 You can reach me by e-mail at code@trigomijes.com
 
 <!---
 FranciscoTrigo/FranciscoTrigo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
