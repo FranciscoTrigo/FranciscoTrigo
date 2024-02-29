@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @FranciscoTrigo, I recently graduated and got my Bachelors in CS! I am open to work remotely or in the DFW area.
-- 💻 I have a website and hobby blog where I sometimes write about things that I like: [trigomijes.com](https://www.trigomijes.com). Made with Jekyll!
-- 👀 I’m interested in cloud computing, servers and homelabs!
-- 💞️ I’m looking to collaborate on anything!
+- 👋 Hi, I’m @FranciscoTrigo, I got a Bachelor's degree in Computer Science, and I will be starting a Master's degree in Cybersecurity later this year.
+- 💻 I have a website and hobby blog where I sometimes write about things that I like: [trigomijes.com](https://www.trigomijes.com). Made with Hugo and depoyed with Netlify!
+- 👀 I’m interested in cloud computing, cybersecurity, home automation, selfhosting and open source.
+- 🎸 SOme other of my hobbies are electric guitar and videogames. I've been playing mostly on my Steamdeck recently.
+- 💞️ I’m looking for remote jobs or jobs in the DFW area.
 - 📫 You can reach me by e-mail at code@trigomijes.com
 
 <!---
